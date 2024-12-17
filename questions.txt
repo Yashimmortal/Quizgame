@@ -1,0 +1,5 @@
+What does HTML stand for?;Hyper Text Markup Language;High Text Markup Language;Hyperlink and Text Markup Language;None of the above;0
+What is the main function of a CPU?;To store data;To perform calculations;To manage memory;To connect to the internet;1
+Which of the following is a programming language?;HTML;CSS;JavaScript;All of the above;3
+What does CSS stand for?;Cascading Style Sheets;Computer Style Sheets;Colorful Style Sheets;Creative Style Sheets;0
+What is the purpose of an IP address?;To identify a device on a network;To encrypt data;To store files;To connect to Wi-Fi;0
