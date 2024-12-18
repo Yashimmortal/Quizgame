@@ -53,7 +53,7 @@ void playQuiz(const vector<Question>& questions) {
         } else {
             cout << "Wrong,The answer was: " << question.options[question.correctAnswerIndex] <<endl;
         }
-        std::cout << std::endl;
+        cout << endl;
     }
 
     cout << "Your final score: " << score << "/" << questions.size() << std::endl;
